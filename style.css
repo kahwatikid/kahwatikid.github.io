@@ -10,5 +10,8 @@ body {
 
 .signup-form{
     color: #fff;
-    text-align: 
+    text-align: center;
+}
+.email {
+    color: #000;
 }
