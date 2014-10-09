@@ -7,6 +7,8 @@
 body {
 	background-image: url(intro-bg2.jpg) ;
 	background-repeat: repeat-x;
+	background-repeat: repeat-y;
+
 }
 
 .signup-form{
